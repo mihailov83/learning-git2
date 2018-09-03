@@ -1,0 +1,2 @@
+autoprefixer-cli -o main.prefixed.css style.scss
+nu-html-checker -f index.html
